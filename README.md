@@ -13,3 +13,7 @@ layout: Post
 date: date will be display on Post or thumbs
 ---
 ```
+
+### Post frontmatter options
+layout - can be found in `docs > .vuepress > theme > layout`
+date - date that will be displayed on post and thumbnails
